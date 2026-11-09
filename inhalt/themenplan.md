@@ -3,6 +3,11 @@
 Arbeitstitel der Seite: **«Kein Tag im Leben …»**
 Stand: 9. November 2026 · Status: Entwurf, noch kein Artikel publiziert
 
+**Entschieden am 9. November 2026:** Hosting über ein Repository
+`jostcent.github.io` (Entscheid Nr. 1). Publikationsreihenfolge nach
+Abschnitt 4 bestätigt. Seitengerüst und erster Artikel ab Mitte November 2026,
+nach einem inhaltlichen Vorgespräch.
+
 ---
 
 ## 1. Positionierung
@@ -344,7 +349,7 @@ erlebt» kippen — das bestätigt das Vorurteil statt es zu widerlegen.
 
 ---
 
-## 4. Reihenfolge
+## 4. Reihenfolge — bestätigt am 9. November 2026
 
 Realistische Annahme: ein publizierter Artikel pro zwei bis drei Wochen. Elf
 Blöcke mit teils mehreren Artikeln sind rund zwanzig Texte, also etwa ein Jahr.
@@ -415,10 +420,10 @@ ein sichtbares Feld «Stand» und im Repository ein Review-Datum. Fester Termin:
 
 | Nr. | Entscheid | Konsequenz bei Untätigkeit |
 |---|---|---|
-| 1 | **Hosting und Domain.** Dieses Repository heisst `jostcent` und entspricht dem Benutzernamen — GitHub Pages behandelt ein solches Repository als Profil-README, nicht als Website. Für eine erreichbare Seite braucht es ein Repository `jostcent.github.io` oder Hosting über Vercel. | Der Plan bleibt ein Dokument. Nichts wird publiziert. |
+| 1 | ~~Hosting und Domain.~~ **Entschieden am 9. November 2026:** Repository `jostcent.github.io`, GitHub Pages. Dieses Repository `jostcent` bleibt Profil-Repository. Umsetzung offen: Das Repository muss von Hand auf GitHub angelegt werden. | — erledigt, Umsetzung ausstehend |
 | 2 | **Technik.** Statische Seite von Hand, Generator (Hugo, Eleventy) oder Framework. Bei zwanzig Artikeln mit Review-Daten und Quellenangaben ist ein Generator die richtige Wahl. | Spätere Migration von Hand geschriebener Artikel. |
 | 3 | **Impressum und Datenschutzerklärung.** Pflicht, sobald die Seite öffentlich ist und ein Kontaktweg besteht. | Rechtsrisiko ab dem ersten Tag online. |
-| 4 | **Block 8** schärfen oder streichen. | Ein beliebiger Artikel schwächt die übrigen. |
+| 4 | **Block 8** schärfen oder streichen. Vorgespräch Mitte November. | Ein beliebiger Artikel schwächt die übrigen. |
 | 5 | **Kontaktweg.** Formular, E-Mail oder keiner. Ein Kontaktweg auf einer Seite über Hilflosenentschädigung erzeugt Anfragen zu Einzelfällen — mit Fristen. | Unbeantwortete Anfragen von Menschen in laufenden Verfahren. |
 
 ---

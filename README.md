@@ -13,12 +13,23 @@ Noch keine Website. Vorhanden ist der redaktionelle Plan:
   elf Themenblöcke mit Rechtsgrundlagen und Risikobewertung, Reihenfolge,
   Querschnittsregeln, offene Entscheide.
 
+## Hosting — entschieden am 9. November 2026
+
+Die Website entsteht in einem separaten Repository `jostcent.github.io` und
+wird über GitHub Pages ausgeliefert. Dieses Repository `jostcent` bleibt das
+Profil-Repository; GitHub Pages behandelt ein Repository mit dem Benutzernamen
+nicht als Website.
+
+Der Themenplan zieht mit um, sobald `jostcent.github.io` existiert.
+
 ## Nächster Schritt
 
-Entscheid Nr. 1 im Themenplan: Hosting und Domain. Ein Repository mit dem
-Benutzernamen wird von GitHub Pages als Profil-README behandelt, nicht als
-Website. Für eine erreichbare Seite braucht es `jostcent.github.io` oder
-Hosting über einen Anbieter wie Vercel.
+1. Repository `jostcent.github.io` auf GitHub anlegen — öffentlich, ohne
+   README, ohne .gitignore, ohne Lizenz.
+2. Themenplan dorthin übernehmen, Pages aktivieren.
+3. Vorgespräch zu Seitengerüst und erstem Artikel, Mitte November 2026.
+   Offen dabei: Technikentscheid (Generator oder statische Seite) und Block 8
+   des Themenplans.
 
 ## Regeln für Inhalte
 
