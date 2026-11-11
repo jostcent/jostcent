@@ -1,17 +1,31 @@
 ## Jost Centeno Castro
 
-Pflegefachmann für psychiatrische und somatische Pflege, Nachdiplomstudium
-Intensivpflege. Freiberufliche Tätigkeit und Aufbau einer Spitex-Struktur.
+Pflegefachmann HF Psychiatrie und Experte Intensivpflege NDS HF.
+Freiberuflich tätig im Kanton Zürich, im Aufbau einer Spitex-Struktur.
 
-Homepage im Aufbau: [jostcent.github.io](https://github.com/jostcent/jostcent.github.io)
-— fachliche Texte zu Sozialversicherungsrecht, Pflegefinanzierung und zur
-Grenze zwischen psychiatrischer und somatischer Pflege.
+Ich arbeite an der Grenze zwischen psychiatrischer und somatischer Pflege und
+beschäftige mich mit dem, was daneben liegt und trotzdem über die Versorgung
+entscheidet: Sozialversicherungsrecht, Bedarfsabklärung, Pflegefinanzierung.
 
----
+### Werkzeuge aus der eigenen Praxis
 
-Dies ist das GitHub-Profil-Repository. Sein README erscheint auf dem
-Profil — Inhalt und Formulierung sind noch ein Platzhalter und von Hand zu
-überarbeiten.
+Kleine Anwendungen, die aus konkreten Problemen im Arbeitsalltag entstanden
+sind. Gemeinsamer Nenner: Gesundheitsdaten bleiben auf dem eigenen Gerät oder
+auf der eigenen Infrastruktur. Keine Cloud Dritter, kein Tracking, keine
+Werbung.
 
-Der redaktionelle Themenplan der Homepage ist nach
-`jostcent/jostcent.github.io` umgezogen (`inhalt/themenplan.md`).
+- **[chartr](https://github.com/jostcent/chartr)** — Diktier-App für die
+  ambulante Pflege. Sprachnotiz nach dem Einsatz, Upload auf die eigene
+  Nextcloud, Transkription und Berichtsentwurf lokal auf dem eigenen Rechner.
+- **[symptome](https://github.com/jostcent/symptome)** — Tagebuch zur
+  Selbstbeobachtung fürs Handy. Ersetzt die Papierbögen, die man über Wochen
+  führen soll und die dann doch verloren gehen. Läuft offline, Daten bleiben
+  im Browser.
+
+### Im Aufbau
+
+**[jostcent.github.io](https://github.com/jostcent/jostcent.github.io)** —
+Homepage mit fachlichen Texten: Hilflosenentschädigung, Assistenzbeitrag und
+IV-Verfahren; Tarife und Anbieterstrukturen in der ambulanten Pflege; Demenz,
+Trauma und die Grenze zwischen psychiatrischer und somatischer Pflege.
+Noch keine Inhalte, nur der Themenplan.
